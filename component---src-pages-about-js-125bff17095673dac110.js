@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[20],{"3XHS":function(n,t,e){"use strict";e.r(t);var a=e("q1tI"),i=e.n(a),s=e("Q7S0");t.default=function(){return i.a.createElement(s.a,{lang:"fi",title:"Kurssista | Full Stack open 2021"})}}}]);
+//# sourceMappingURL=component---src-pages-about-js-125bff17095673dac110.js.map

@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[27],{"+JAa":function(e,n,t){"use strict";t.r(n);var a=t("q1tI"),o=t.n(a),c=t("xEVu");n.default=function(){return o.a.createElement(c.a,{lang:"es",title:"Partner companies | Full Stack open 2021",seoDescription:"Full stack development in partner companies"})}}}]);
+//# sourceMappingURL=component---src-pages-companies-es-js-1365385e17786836948c.js.map
